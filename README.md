@@ -1,12 +1,9 @@
-<h3 align="center">
-    ## 🔖 Faça a sua lista de tecnologias para se tornar um dev full Syack Java Jr <br/>
-    <br><br>
-</h3>
+# 🔖 Faça a sua lista de tecnologias para se tornar um dev Full Stack Java Jr
 
 
-## 🔖 Informaçoes sobre a Lista <br/>
+## 🔖 Informações <br/>
 
-A <strong>Lista</strong> é feita com os conhecimentos que a pessoa juga ser necessário para se tornar um dev Full Stack Java Jr <br/>
+A <strong>lista</strong> é composta pelos conhecimentos que a pessoa julga ser necessário para tornar-se um dev Full Stack Java Jr <br/>
 
 ## 🖼 Screenshot das telas da aplicação <br/>
 
@@ -14,12 +11,10 @@ A <strong>Lista</strong> é feita com os conhecimentos que a pessoa juga ser nec
 <br/>
 
 
-## 🚀 Tecnologias utilizadas <br/>
+## 🚀 Tecnologias utilizadas 
+
 <br/>
-
-<br>
 <p align="left">
-
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
@@ -37,10 +32,8 @@ A <strong>Lista</strong> é feita com os conhecimentos que a pessoa juga ser nec
       height="120"
     />
   </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-  >
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript"
@@ -48,18 +41,15 @@ A <strong>Lista</strong> é feita com os conhecimentos que a pessoa juga ser nec
       height="120"
     />
   </a>
-  
 </p>
 
-<br>
-<br/>
 
 ### :memo: Funcionalidades: 
-- poder adicionar e remover as tecnologias a ser aprendida
-- poder marcar tecnologias como aprendida
-- não pode adicionar um tecnologia vazia
-- Um botão para marcar e outro para deletar todas as tecnologias
-- opção de arrastar e soltar os itens
+- Adicionar e remover as tecnologias a serem aprendidas.
+- Marcar as tecnologias aprendidas (check).
+- Não permite adicionar um campo vazio.
+- Dois botões responsáveis por marcar e deletar todas as tecnologias.
+- Opção de arrastar e soltar os itens.
 
 # 👷 Como rodar
 
@@ -75,12 +65,12 @@ git clone https://github.com/teteusAraujo/I-need-to-learn
 
 ## 🤔 Como contribuir <br/>
 
-- Faça um fork desse repositório; <br/>
-- Cria uma branch com a sua feature: `git checkout -b minha-feature`;<br/>
-- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`; <br/>
-- Faça push para a sua branch: `git push origin minha-feature`.<br/>
-<br/>
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch. <br/>
+- Faça um fork desse repositório.
+- Cria uma branch com a sua feature: `git checkout -b minha-feature`
+- Faça commit das suas alterações: `git commit -m 'feat: Minha nova feature'`
+- Faça push para a sua branch: `git push origin minha-feature`
+
+- Depois que o merge da sua *pull request* for feito, você pode deletar a sua *branch*
 
 
 ## :mortar_board: Autores
