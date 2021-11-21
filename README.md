@@ -1,13 +1,15 @@
-# 🔖 Faça a sua lista de tecnologias para se tornar um dev Full Stack Java Jr
+<h3 align="center">
+  ✔️Faça a sua lista de tecnologias para se tornar um Dev Full Stack Java Jr📝
+</h3>
 
+## 🔖 Informações
 
-## 🔖 Informações <br/>
+- A <strong>lista</strong> será composta pelos conhecimentos que o usuário julgar necessário para tornar-se um dev Full Stack Java Jr.
+- 🖱️ [Clique aqui](https://rogeriofrsouza.github.io/I-need-to-learn/) para acessar o site.
 
-A <strong>lista</strong> é composta pelos conhecimentos que a pessoa julga ser necessário para tornar-se um dev Full Stack Java Jr <br/>
+## 🖼 Screenshot das telas da aplicação
 
-## 🖼 Screenshot das telas da aplicação <br/>
-
-<img src="./public/assets/demonstracao.png" alt="">
+<img src="docs/public/assets/demo.png" alt="">
 <br/>
 
 
@@ -89,5 +91,3 @@ git clone https://github.com/teteusAraujo/I-need-to-learn
 <h4 align="center">
    Feito com 💜 by  <a href="https://www.linkedin.com/in/mateusara%C3%BAjo/" target="_blank"> Mateus Araújo </a>
 </h4>
-</body>
-</html>
